@@ -17,7 +17,7 @@ With **GraphicPlus**, over **1,500+ students** now experience a faster, more int
 ## 🌐 Backend Repository
 
 You can find the backend source code here:  
-👉 [**GraphicPlus Backend**](https://github.com/yourusername/GraphicPlus-Backend)
+👉 [**GraphicPlus Backend**](https://github.com/karan3613/Graphic-Plus-Backend)
 
 The backend handles all data operations (**attendance**, **events**, **notices**) using **FastAPI + MongoDB**, deployed via **AWS Lambda** and **AWS S3** for scalable performance.
 
@@ -26,7 +26,7 @@ The backend handles all data operations (**attendance**, **events**, **notices**
 
 Watch **GraphicPlus** in action:
 
-- 📱 **App Overview:** [Watch Video](https://youtu.be/example1)
+- 📱 **App Overview:** [Watch Video](https://youtube.com/shorts/rfku__-IqXA?si=0d17zNFZxofWqMoO)
 
   
 ## 🚀 Features
